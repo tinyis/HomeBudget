@@ -1,0 +1,209 @@
+C:\Users\student\source\repos\HomeBudget\bin\Debug\HomeBudget.exe.config
+C:\Users\student\source\repos\HomeBudget\bin\Debug\HomeBudget.exe
+C:\Users\student\source\repos\HomeBudget\bin\Debug\HomeBudget.pdb
+C:\Users\student\source\repos\HomeBudget\obj\Debug\HomeBudget.csprojAssemblyReference.cache
+C:\Users\student\source\repos\HomeBudget\obj\Debug\HomeBudget.Form1.resources
+C:\Users\student\source\repos\HomeBudget\obj\Debug\HomeBudget.Properties.Resources.resources
+C:\Users\student\source\repos\HomeBudget\obj\Debug\HomeBudget.csproj.GenerateResource.cache
+C:\Users\student\source\repos\HomeBudget\obj\Debug\HomeBudget.exe
+C:\Users\student\source\repos\HomeBudget\obj\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\HomeBudget\bin\Debug\HomeBudget.exe.config
+C:\Users\User\Downloads\HomeBudget\bin\Debug\HomeBudget.exe
+C:\Users\User\Downloads\HomeBudget\bin\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\HomeBudget\bin\Debug\LiveCharts.dll
+C:\Users\User\Downloads\HomeBudget\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\User\Downloads\HomeBudget\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\User\Downloads\HomeBudget\bin\Debug\LiveCharts.pdb
+C:\Users\User\Downloads\HomeBudget\bin\Debug\LiveCharts.xml
+C:\Users\User\Downloads\HomeBudget\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\User\Downloads\HomeBudget\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\User\Downloads\HomeBudget\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Downloads\HomeBudget\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Downloads\HomeBudget\obj\Debug\HomeBudget.csprojAssemblyReference.cache
+C:\Users\User\Downloads\HomeBudget\obj\Debug\HomeBudget.Form1.resources
+C:\Users\User\Downloads\HomeBudget\obj\Debug\HomeBudget.Properties.Resources.resources
+C:\Users\User\Downloads\HomeBudget\obj\Debug\HomeBudget.csproj.GenerateResource.cache
+C:\Users\User\Downloads\HomeBudget\obj\Debug\HomeBudget.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\HomeBudget\obj\Debug\HomeBudget.csproj.CopyComplete
+C:\Users\User\Downloads\HomeBudget\obj\Debug\HomeBudget.exe
+C:\Users\User\Downloads\HomeBudget\obj\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\HomeBudget\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\HomeBudget\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\HomeBudget\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\HomeBudget\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\HomeBudget\obj\Debug\HomeBudget.AddItem.resources
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\HomeBudget.exe.config
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\HomeBudget.exe
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\HomeBudget.pdb
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\EntityFramework.dll
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.dll
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\EntityFramework.xml
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.pdb
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.xml
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\student\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\student\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.csprojAssemblyReference.cache
+C:\Users\student\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.AddItem.resources
+C:\Users\student\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.Charts.resources
+C:\Users\student\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.Form1.resources
+C:\Users\student\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.Properties.Resources.resources
+C:\Users\student\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.csproj.GenerateResource.cache
+C:\Users\student\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.csproj.CopyComplete
+C:\Users\student\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.exe
+C:\Users\student\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.AddItem.resources
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.Charts.resources
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.Form1.resources
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.Properties.Resources.resources
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.csproj.GenerateResource.cache
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.exe
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\HomeBudget.exe.config
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\HomeBudget.exe
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.dll
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.pdb
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.xml
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.csproj.CopyComplete
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\MaterialSkin.dll
+C:\Users\User\Downloads\HomeBudget (1)\obj\Debug\HomeBudget.csprojAssemblyReference.cache
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\ObjectListView.dll
+C:\Users\User\Downloads\HomeBudget (1)\bin\Debug\ObjectListView.xml
+C:\Users\User\Downloads\Курсач\bin\Debug\HomeBudget.exe.config
+C:\Users\User\Downloads\Курсач\bin\Debug\HomeBudget.exe
+C:\Users\User\Downloads\Курсач\bin\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\Курсач\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Курсач\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\Курсач\bin\Debug\LiveCharts.dll
+C:\Users\User\Downloads\Курсач\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\User\Downloads\Курсач\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\User\Downloads\Курсач\bin\Debug\MaterialSkin.dll
+C:\Users\User\Downloads\Курсач\bin\Debug\ObjectListView.dll
+C:\Users\User\Downloads\Курсач\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Курсач\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\Курсач\bin\Debug\LiveCharts.pdb
+C:\Users\User\Downloads\Курсач\bin\Debug\LiveCharts.xml
+C:\Users\User\Downloads\Курсач\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\User\Downloads\Курсач\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\User\Downloads\Курсач\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Downloads\Курсач\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Downloads\Курсач\bin\Debug\ObjectListView.xml
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.AddItem.resources
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.Charts.resources
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.Form1.resources
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.Properties.Resources.resources
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.csproj.CopyComplete
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.exe
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.Log.resources
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.Registration.resources
+C:\Users\User\Downloads\Курсач\obj\Debug\HomeBudget.csprojAssemblyReference.cache
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\HomeBudget.exe.config
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\HomeBudget.exe
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\HomeBudget.pdb
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\EntityFramework.dll
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\LiveCharts.dll
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\MaterialSkin.dll
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\ObjectListView.dll
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\EntityFramework.xml
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\LiveCharts.pdb
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\LiveCharts.xml
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\student\Downloads\Курсач (2)\Курсач\bin\Debug\ObjectListView.xml
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.csprojAssemblyReference.cache
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.AddItem.resources
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.Charts.resources
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.Form1.resources
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.Log.resources
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.Properties.Resources.resources
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.Registration.resources
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.csproj.CopyComplete
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.exe
+C:\Users\student\Downloads\Курсач (2)\Курсач\obj\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\HomeBudget.exe.config
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\HomeBudget.exe
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\LiveCharts.dll
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\MaterialSkin.dll
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\ObjectListView.dll
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\LiveCharts.pdb
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\LiveCharts.xml
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Downloads\Курсач (3)\bin\Debug\ObjectListView.xml
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.AddItem.resources
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.Charts.resources
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.Form1.resources
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.Log.resources
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.Properties.Resources.resources
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.Registration.resources
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.csproj.CopyComplete
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.exe
+C:\Users\User\Downloads\Курсач (3)\obj\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\Kursach\bin\Debug\HomeBudget.exe.config
+C:\Users\User\Downloads\Kursach\bin\Debug\HomeBudget.exe
+C:\Users\User\Downloads\Kursach\bin\Debug\HomeBudget.pdb
+C:\Users\User\Downloads\Kursach\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Kursach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\Kursach\bin\Debug\LiveCharts.dll
+C:\Users\User\Downloads\Kursach\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\User\Downloads\Kursach\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\User\Downloads\Kursach\bin\Debug\MaterialSkin.dll
+C:\Users\User\Downloads\Kursach\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Kursach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\Kursach\bin\Debug\LiveCharts.pdb
+C:\Users\User\Downloads\Kursach\bin\Debug\LiveCharts.xml
+C:\Users\User\Downloads\Kursach\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\User\Downloads\Kursach\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\User\Downloads\Kursach\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Downloads\Kursach\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.AddItem.resources
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.Charts.resources
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.Form1.resources
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.Log.resources
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.Properties.Resources.resources
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.Registration.resources
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.csproj.CopyComplete
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.exe
+C:\Users\User\Downloads\Kursach\obj\Debug\HomeBudget.pdb

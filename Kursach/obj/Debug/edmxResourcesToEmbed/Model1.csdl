@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BudgetModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CategoriesExpense">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Expenses" Relationship="Self.FK__Expenses__Catego__276EDEB3" FromRole="CategoriesExpense" ToRole="Expenses" />
+  </EntityType>
+  <EntityType Name="CategoriesIncome">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Incomes" Relationship="Self.FK__Incomes__Categor__2A4B4B5E" FromRole="CategoriesIncome" ToRole="Incomes" />
+  </EntityType>
+  <EntityType Name="Expenses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Sum" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="UserId" Type="Int32" />
+    <NavigationProperty Name="CategoriesExpense" Relationship="Self.FK__Expenses__Catego__276EDEB3" FromRole="Expenses" ToRole="CategoriesExpense" />
+  </EntityType>
+  <EntityType Name="Incomes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Sum" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="UserId" Type="Int32" />
+    <NavigationProperty Name="CategoriesIncome" Relationship="Self.FK__Incomes__Categor__2A4B4B5E" FromRole="Incomes" ToRole="CategoriesIncome" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="8" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="Picture" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Cash" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="PictureName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK__Expenses__Catego__276EDEB3">
+    <End Role="CategoriesExpense" Type="Self.CategoriesExpense" Multiplicity="1" />
+    <End Role="Expenses" Type="Self.Expenses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoriesExpense">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Expenses">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Incomes__Categor__2A4B4B5E">
+    <End Role="CategoriesIncome" Type="Self.CategoriesIncome" Multiplicity="1" />
+    <End Role="Incomes" Type="Self.Incomes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoriesIncome">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incomes">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BudgetEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CategoriesExpense" EntityType="Self.CategoriesExpense" />
+    <EntitySet Name="CategoriesIncome" EntityType="Self.CategoriesIncome" />
+    <EntitySet Name="Expenses" EntityType="Self.Expenses" />
+    <EntitySet Name="Incomes" EntityType="Self.Incomes" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+    <AssociationSet Name="FK__Expenses__Catego__276EDEB3" Association="Self.FK__Expenses__Catego__276EDEB3">
+      <End Role="CategoriesExpense" EntitySet="CategoriesExpense" />
+      <End Role="Expenses" EntitySet="Expenses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Incomes__Categor__2A4B4B5E" Association="Self.FK__Incomes__Categor__2A4B4B5E">
+      <End Role="CategoriesIncome" EntitySet="CategoriesIncome" />
+      <End Role="Incomes" EntitySet="Incomes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

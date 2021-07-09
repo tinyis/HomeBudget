@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="264509426e20467587bd6a564fbddb59" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="BudgetModel.CategoriesExpense" Width="1.5" PointX="0.5" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BudgetModel.CategoriesIncome" Width="1.5" PointX="0.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BudgetModel.Expenses" Width="1.5" PointX="3" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BudgetModel.Incomes" Width="1.5" PointX="3" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BudgetModel.Users" Width="1.5" PointX="5.125" PointY="1.75" IsExpanded="true" />
+        <AssociationConnector Association="BudgetModel.FK__Expenses__Catego__276EDEB3" ManuallyRouted="false" />
+        <AssociationConnector Association="BudgetModel.FK__Incomes__Categor__2A4B4B5E" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
